@@ -1,0 +1,7 @@
+site_name: My Docs
+
+<code class="language-plaintext">mkdir .github
+cd .github
+mkdir workflows
+cd workflows
+vim ci.yml</code>
